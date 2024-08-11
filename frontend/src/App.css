@@ -77,6 +77,7 @@
 }
 
 .link-a {
+  margin: 5;
   background-color: #333; /* Initial background color */
   color: #fff; /* Text color */
   text-decoration: none; /* Remove underline */
@@ -84,11 +85,13 @@
 }
 
 .link-b {
+  margin: 5;
   background-color: #6b5b95;
   /* border-radius: 10px; Apply border-radius to individual block B */
 }
 
 .link-c {
+  margin: 5;
   background-color: #b04b7a;
   border-top-left-radius: 100px; /* Apply border-radius to individual block C */
   border-top-right-radius: 100px;
